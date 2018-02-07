@@ -19,6 +19,13 @@
   </div>
 
   <section class="post__content">
+  {{if .Params.image}}
+  <img  src="{{.Params.image}}">
+  {{ else }}
+  
+  {{ end }}
+
+
     {{ .Content }}
     {{ if eq .Lang "en" }}
       <wordcount class="wordcount">

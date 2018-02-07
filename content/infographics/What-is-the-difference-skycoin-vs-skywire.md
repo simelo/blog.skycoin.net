@@ -8,8 +8,9 @@ date = "2018-02-03"
 categories = [
     "Infographics",
 ]
+image = "/img/What-is-the-difference-skycoin-vs-skywire.jpg"
 +++
-![Skycoin Infographic](/img/What-is-the-difference-skycoin-vs-skywire.jpg)
+
 
 ## What’s the difference between Skycoin and Skywire?
 
