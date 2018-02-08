@@ -8,7 +8,7 @@ date = "2018-02-03"
 categories = [
     "Infographics",
 ]
-image = "/img/Why-do-we-need-a-free-internet.jpg"
+image = "img/Why-do-we-need-a-free-internet.jpg"
 +++
 ![Skycoin Infographic](/img/Why-do-we-need-a-free-internet.jpg)
 

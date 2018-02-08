@@ -8,7 +8,7 @@ date = "2018-02-03"
 categories = [
     "Infographics",
 ]
-image = "/img/What-is-the-difference-skycoin-vs-skywire.jpg"
+image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 +++
 
 
