@@ -1,5 +1,4 @@
 {{ partial "header.html" . }}
-
 <main class="post">
   <div class="meta">
     <h1 class="meta__title">{{ .Title }}</h1>
@@ -19,6 +18,13 @@
   </div>
 
   <section class="post__content">
+  {{if .Params.image}}
+  <img  src="{{ .Params.image | absURL }}">
+  {{ else }}
+  
+  {{ end }}
+
+
     {{ .Content }}
     {{ if eq .Lang "en" }}
       <wordcount class="wordcount">
